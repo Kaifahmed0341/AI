@@ -1,0 +1,6 @@
+User social media data and mental health data will be extracted 
+from Chinese micro blog service provider (Sina Weibo). Then by 
+applying machine learning that data will be compared with well 
+design psychological questionnaire (pre design by psychologist 
+around the world) from our database. In the end it will predict 
+the user mental health status. This algorithm is 72% accurate.
